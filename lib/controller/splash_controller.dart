@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:get/get.dart';
 
+// splash screen controller for Get-x state management
 class SplashController extends GetxController {
 
   @override

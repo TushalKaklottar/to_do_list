@@ -17,7 +17,7 @@ class MyRoutes {
   static List<GetPage> routes = [
     GetPage(
         name: _splash,
-        page: () =>  SplashScreen(),
+        page: () =>  const SplashScreen(),
       transition: Transition.fade
     ),
     GetPage(
@@ -26,7 +26,7 @@ class MyRoutes {
     ),
     GetPage(
         name: _addTask,
-        page: () => AddTaskPage(),
+        page: () => const AddTaskPage(),
     )
   ];
 }

@@ -40,16 +40,7 @@ class HomePage extends StatelessWidget {
                 },
               )),
             ),
-            // Expanded(
-            //     child: Obx(() => ListView.builder(
-            //       itemCount: taskController.tasks.length,
-            //       itemBuilder: (context,index) {
-            //         Task task = taskController.tasks[index];
-            //         return TaskItem(task: task);
-            //       },
-            //     )
-            //     )
-            // ),
+
             Padding(padding: const EdgeInsets.all(8),
               child: Row(
                 children: [
