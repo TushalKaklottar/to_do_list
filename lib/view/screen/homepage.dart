@@ -47,7 +47,8 @@ class HomePage extends StatelessWidget {
             //         Task task = taskController.tasks[index];
             //         return TaskItem(task: task);
             //       },
-            //     ))
+            //     )
+            //     )
             // ),
             Padding(padding: const EdgeInsets.all(8),
               child: Row(
