@@ -10,8 +10,7 @@ A simple To-Do List application built using Flutter with GetX state management. 
 - Persistence: Tasks are saved even if the app is closed and reopened
 - Clean and intuitive user interface
 - Works on both iOS and Android devices/emulators
-- Supports different screen sizes and orientations
-- 
+- Supports different screen sizes and orientations.
 
 ## Screenshots
 
