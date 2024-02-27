@@ -4,6 +4,7 @@ A simple To-Do List application built using Flutter with GetX state management. 
 
 ## Features
 
+- splash screen 
 - Add new tasks
 - Mark tasks as completed
 - Delete tasks
