@@ -14,7 +14,7 @@ A simple To-Do List application built using Flutter with GetX state management. 
 - Supports different screen sizes and orientations.
 
 ## Screenshots
-<img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/ab492dc9-c80d-48f7-9a3a-8b064a8a27e4" width="250px">
+<img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/611ba943-21d0-45b4-887b-491276a1c31f" width="250px">
 <img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/7dcdad11-b4a3-4d8c-82fd-f09c8b19b8cd" width="250px">
 <img src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/d9e0220d-bac2-46bb-82ad-99c789e6c2fb" width="250px">
 
