@@ -8,7 +8,7 @@ class SplashController extends GetxController {
   void onInit() {
     super.onInit();
     Timer.periodic(
-        const Duration(seconds: 3),
+        const Duration(seconds: 30),
             (timer) {
           Get.offNamed("/home");
           timer.cancel();

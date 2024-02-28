@@ -120,7 +120,7 @@ class HomePage extends StatelessWidget {
             child: Obx(() {
               if (taskController.tasks.isEmpty) {
                 return Padding(
-                  padding:  EdgeInsets.all(16),
+                  padding:  const EdgeInsets.all(16),
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
