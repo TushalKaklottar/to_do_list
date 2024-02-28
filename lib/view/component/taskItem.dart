@@ -29,7 +29,10 @@ class TaskItem extends StatelessWidget {
         },
       ),
       trailing: IconButton(
-        icon: const Icon(Icons.delete),
+        icon:  Icon(
+          Icons.delete,
+          color: AppColor.black.withOpacity(0.7),
+        ),
         onPressed: () {
           Get.find<TaskController>().removeTask(task);
         },

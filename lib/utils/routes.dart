@@ -8,7 +8,7 @@ class MyRoutes {
   static const String _splash = "/";
   static const String _home = "/home";
   static const String _addTask = "/addTask";
-  static const Duration _duration = Duration(milliseconds: 400);
+  // static const Duration _duration = Duration(milliseconds: 400);
 
   static String getSplashRoutes() => _splash;
   static String getHomeRoutes() => _home;
@@ -18,7 +18,7 @@ class MyRoutes {
     GetPage(
         name: _splash,
         page: () =>  const SplashScreen(),
-      transition: Transition.fade
+      transition: Transition.downToUp,
     ),
     GetPage(
         name: _home,
