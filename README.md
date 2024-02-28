@@ -15,7 +15,7 @@ A simple To-Do List application built using Flutter with GetX state management. 
 
 ## Screenshots
 <img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/ab492dc9-c80d-48f7-9a3a-8b064a8a27e4" width="250px">
-<img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/e249216a-1f03-415c-83be-66e02e8fb9f7" width="250px">
+<img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/7dcdad11-b4a3-4d8c-82fd-f09c8b19b8cd" width="250px">
 <img src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/d9e0220d-bac2-46bb-82ad-99c789e6c2fb" width="250px">
 
 <img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/53aa124e-6a9f-43c9-8163-96419dacbe1f" width="250px">
@@ -24,7 +24,6 @@ A simple To-Do List application built using Flutter with GetX state management. 
 
 <img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/7ddd0767-674d-4d06-9dd3-d463ca1b5a11" width="250px">
 <img align="left" src="https://github.com/TushalKaklottar/to_do_list/assets/113959965/da377a84-49d2-4a3c-be2a-e6408ad29622" width="250px">
-
 
 
 
